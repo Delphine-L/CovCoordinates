@@ -1,0 +1,7 @@
+name: coordinates-environment
+channels:
+  - conda-forge
+dependencies:
+  - numpy
+  - matplotlib
+  - pandask
