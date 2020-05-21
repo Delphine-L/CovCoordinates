@@ -1,7 +1,10 @@
 name: coordinates-environment
 channels:
   - conda-forge
+  - akode
 dependencies:
   - numpy
   - matplotlib
-  - pandask
+  - pandas
+  - jupyter_contrib_nbextensions
+  - nteract_on_jupyter
