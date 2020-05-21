@@ -2,9 +2,13 @@ name: coordinates-environment
 channels:
   - conda-forge
   - akode
+  - anaconda
 dependencies:
   - numpy
   - matplotlib
   - pandas
   - jupyter_contrib_nbextensions
   - nteract_on_jupyter
+  - appmode
+  - jupyter_contrib_nbextensions
+  - ipywidgets
