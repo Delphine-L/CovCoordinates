@@ -11,4 +11,5 @@ dependencies:
   - nteract_on_jupyter
   - appmode
   - jupyter_contrib_nbextensions
-  - ipywidgets
+  - ipywidgetos
+  - tabulate
