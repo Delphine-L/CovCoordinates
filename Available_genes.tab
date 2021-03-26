@@ -1,8 +1,8 @@
-Spike Protein	https://raw.githubusercontent.com/galaxyproject/SARS-CoV-2/master/genomics/7-VariantsDescription/S/S_coordinates.tab
-Membrane Protein	https://raw.githubusercontent.com/galaxyproject/SARS-CoV-2/master/genomics/7-VariantsDescription/M/M_coordinates_conversion.tab
-Nucleocapside Protein	https://raw.githubusercontent.com/galaxyproject/SARS-CoV-2/master/genomics/7-VariantsDescription/N/N_coordinates_conversion.tab
-RNA dependent RNA polymerase (RdRp)	https://raw.githubusercontent.com/galaxyproject/SARS-CoV-2/master/genomics/7-VariantsDescription/RdRp/RdRp_coordinates_conversion.tab
-3Clike protease	https://raw.githubusercontent.com/galaxyproject/SARS-CoV-2/master/genomics/7-VariantsDescription/3CLpro/3CLpro_coordinates_conversion.tab
-ORF3	https://raw.githubusercontent.com/galaxyproject/SARS-CoV-2/master/genomics/7-VariantsDescription/ORF3/ORF3_coordinates.tab
-ORF1ab	https://raw.githubusercontent.com/galaxyproject/SARS-CoV-2/master/genomics/7-VariantsDescription/ORF1ab/ORF1ab_coordinates.tab
-Nsp3	https://raw.githubusercontent.com/galaxyproject/SARS-CoV-2/master/genomics/7-VariantsDescription/nsp3/nsp3.tab
+Spike Protein	https://raw.githubusercontent.com/galaxyproject/SARS-CoV-2/master/genomics/no-more-business-as-usual/7-VariantsDescription/S/S_coordinates.tab
+Membrane Protein	https://raw.githubusercontent.com/galaxyproject/SARS-CoV-2/master/genomics/no-more-business-as-usual/7-VariantsDescription/M/M_coordinates_conversion.tab
+Nucleocapside Protein	https://raw.githubusercontent.com/galaxyproject/SARS-CoV-2/master/genomics/no-more-business-as-usual/7-VariantsDescription/N/N_coordinates_conversion.tab
+RNA dependent RNA polymerase (RdRp)	https://raw.githubusercontent.com/galaxyproject/SARS-CoV-2/master/genomics/no-more-business-as-usual/7-VariantsDescription/RdRp/RdRp_coordinates_conversion.tab
+3Clike protease	https://raw.githubusercontent.com/galaxyproject/SARS-CoV-2/master/genomics/no-more-business-as-usual/7-VariantsDescription/3CLpro/3CLpro_coordinates_conversion.tab
+ORF3	https://raw.githubusercontent.com/galaxyproject/SARS-CoV-2/master/genomics/no-more-business-as-usual/7-VariantsDescription/ORF3/ORF3_coordinates.tab
+ORF1ab	https://raw.githubusercontent.com/galaxyproject/SARS-CoV-2/master/genomics/no-more-business-as-usual/7-VariantsDescription/ORF1ab/ORF1ab_coordinates.tab
+Nsp3	https://raw.githubusercontent.com/galaxyproject/SARS-CoV-2/master/genomics/no-more-business-as-usual/7-VariantsDescription/nsp3/nsp3.tab
